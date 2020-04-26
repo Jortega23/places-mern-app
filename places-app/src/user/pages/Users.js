@@ -1,12 +1,14 @@
 import React from 'react'
 import UsersList from '../components/UsersList'
+import Jesus from '../../images/profilepic.jpg'
+
 
 const Users = () => {
   const USERS = [
     {
       id:'u1', 
       name:'Jesus Ortega', 
-      image:'', 
+      image:Jesus, 
       places: 3 
     }
   ]
