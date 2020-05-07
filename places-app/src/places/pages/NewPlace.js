@@ -2,9 +2,9 @@ import React from 'react'
 
 const NewPlace = () => {
     return (
-        <div>
-            <h2>New Place</h2>
-        </div>
+       <form className='place-form'>
+           
+       </form>
     )
 }
 export default NewPlace;
